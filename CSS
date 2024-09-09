@@ -1,0 +1,25 @@
+body {
+  background-color:#4080FF; 
+  color:#B42025; 
+}
+h3, u {
+    color: black;
+}
+h1 {
+    color: black;
+}
+p {
+    color: #581845;
+}
+body {
+    font-family: 'Arial', Helvetica, sans-serif;
+    font-size: 23px; /* Taille de police augmentée */
+}
+
+
+@font-face {
+font-family: Arial, Helvetica, sans-serif;
+
+src: url(FontLocationOnServer);
+
+}
